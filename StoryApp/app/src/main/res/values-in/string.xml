@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Dimas Beck</string>
+    <string name="description">Lorem Ipsum</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="descriptionText">Deskripsi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="nameText">Nama</string>
+    <string name="uploadStory">Unggah Story Baru</string>
+</resources>

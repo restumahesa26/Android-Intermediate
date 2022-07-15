@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Dimas Beck</string>
+    <string name="description">Lorem Ipsum</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="descriptionText">Description</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="nameText">Name</string>
+    <string name="uploadStory">Upload New Story</string>
+    <string name="maps">Show Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Try Again</string>
+    <string name="setting">Setting</string>
+</resources>

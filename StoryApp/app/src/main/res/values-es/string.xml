@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Dimas Beck</string>
+    <string name="description">Lorem Ipsum</string>
+    <string name="logout">Salir</string>
+    <string name="camera">Camara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload">Subir</string>
+    <string name="descriptionText">Descripcion</string>
+    <string name="login">Ingresar</string>
+    <string name="register">Lista</string>
+    <string name="nameText">Nombre</string>
+    <string name="uploadStory">Subir Nueva Historia</string>
+</resources>

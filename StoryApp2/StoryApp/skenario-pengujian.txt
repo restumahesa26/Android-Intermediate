@@ -1,0 +1,96 @@
+Unit Testing : 
+
+Skenario Testing pada LoginViewModelTest 
+1. Ketika berhasil login menggunakan email dan password yang benar
+	- Memastikan mengembalikan Result.Success
+	- Memastikan hasil request tidak kosong
+
+2. Ketika gagal login menggunakan email dan password yang tidak tepat
+	- Memastikan mengembalikan Result.Error
+	- Memastikan hasil request tidak kosong
+
+Skenario Testing pada RegisterViewModelTest
+1. Ketika berhasil register dengan mengisi nama, email, dan password
+	- Memastikan mengembalikan Result.Success
+	- Memastikan hasil request tidak kosong
+
+2. Ketika gagal register
+	- Mengosongkan field nama
+	- Format email yang salah
+	- Password kurang dari 6 karakter 
+	- Memastikan mengembalikan Result.Error
+	- Memastikan hasil request tidak kosong
+
+Skenario Testing pada ListStoryViewModelTest
+1. Ketika berhasil menampilkan list story
+	- Memastikan menampilkan hasil yang sesuai dengan response sukses
+	- Memastikan hasil request tidak kosong
+
+2. Ketika gagal menampilkan list story
+	- Memastikan menampilkan hasil yang sesuai dengan response gagal
+	- Memastikan hasil request tidak kosong
+
+Skenario Testing pada AddNewStoryViewModelTest
+1. Ketika berhasil menambahkan story
+	- Memastikan mengembalikan Result.Success
+	- Memastikan hasil request tidak kosong
+
+2. Ketika gagal menambahkan story
+	- Memastikan mengembalikan Error
+	- Memastikan hasil request tidak kosong
+
+Skenario Testing pada MapsViewModelTest
+1. Ketika berhasil menampilkan maps
+	- Memastikan mengembalikan Result.Success
+	- Memastikan hasil request tidak kosong
+
+2. Ketika gagal menampilkan maps
+	- Memastikan mengembalikan Error
+	- Memastikan hasil request tidak kosong
+
+Skenario Testing pada StoryRepository
+1. Ketika list story tidak kosong
+	- Memastikan hasil request tidak kosong
+	- Memastikan jumlah data sesuai yang diharapkan
+
+2. Ketika maps tidak kosong
+	- Memastikan hasil request tidak kosong
+	- Memastikan jumlah data sesuai yang diharapkan
+
+3. Ketika add new story berhasil berjalan dengan baik
+	- Memastikan hasil kode error sama, contoh false dan false
+	- Memastikan hasil request tidak kosong
+
+Skenario Testing pada AuthenticationRepository
+1. Ketika login berhasil berjalan dengan baik
+	- Memastikan hasil request tidak kosong
+	- Memastikan data sesuai yang diharapkan
+
+2. Ketika register berhasil berjalan dengan baik
+	- Memastikan hasil request tidak kosong
+	- Memastikan data sesuai yang diharapkan
+
+Integration Test : 
+
+Skenario Testing pada ListStoryActivityTest
+1. Ketika list story tidak kosong dan berhasil ditampilkan
+	- Memastikan kode hasil request 200
+	- Memastikan recycler view muncul
+	- Memastikan data dengan nama "Robot Ngepost" muncul
+	- Mengscroll halaman menuju data yang mengandung nama "Robot Ngepost"
+	- Mengscroll halaman menuju data ke 30
+
+2. Ketika list story kosong
+	- Memastikan kode hasil request 500
+	- Memastikan recycler view muncul walaupun data kosong
+
+3. Ketika menampilkan detail dari story 
+	- Memastikan kode hasil request 200 
+	- Mengscroll halaman menuju data ke 30
+	- Menjalankan event klik pada data pertama atau index ke 0
+	- Membuka Detail Activity
+	- Memastikan apakah gambar pada Detail Activity muncul
+
+End to End Testing pada MapsActivityTest
+1. Ketika maps tidak kosong dan berhasil ditampilkan
+	- Memastikan item dengan id map muncul

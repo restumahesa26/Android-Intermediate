@@ -1,0 +1,456 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-LYr4mtW-7mWahATS",
+      "name": "TinggedeUnited",
+      "description": "tesssss",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878536566_0AcM8XwH.jpg",
+      "createdAt": "2022-04-25T09:22:16.569Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-WFGWANylVHB9mym5",
+      "name": "reviewer73",
+      "description": "cam",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878363465_i5I1vPJG.jpg",
+      "createdAt": "2022-04-25T09:19:23.468Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-CFVR6fAZFK1Xqir8",
+      "name": "reviewer73",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878315096_BOxVHF0V.jpg",
+      "createdAt": "2022-04-25T09:18:35.098Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story--a83A1olnucwN0X-",
+      "name": "kitagawa",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878307452_LQyVc3o3.jpg",
+      "createdAt": "2022-04-25T09:18:27.528Z",
+      "lat": 3.583522,
+      "lon": 98.63887439999999
+    },
+    {
+      "id": "story-dQWoWlDfwZIqJ_I_",
+      "name": "ttttttttttttt",
+      "description": "\"ciee noob\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878195383_Huj9hXWd.jpg",
+      "createdAt": "2022-04-25T09:16:35.384Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-r3q9SiW2zLPLIDLD",
+      "name": "aji",
+      "description": "Robot ngepost",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878121048_GH67vqk2.jpg",
+      "createdAt": "2022-04-25T09:15:21.052Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-7UiQGx-npLWSz7SH",
+      "name": "rami malek",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878109920_QykoZKDG.jpg",
+      "createdAt": "2022-04-25T09:15:09.922Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-TDCfg8HkUuPNkkhe",
+      "name": "Paijo siswa bangkit",
+      "description": "skskssk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650878067209_Bv7oOIf-.jpg",
+      "createdAt": "2022-04-25T09:14:27.213Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-5vIk_Y2QEl6JKkS0",
+      "name": "tep",
+      "description": "\"tes camerax di hp\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877998996_nX32Z1TV.jpg",
+      "createdAt": "2022-04-25T09:13:18.998Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-7YoJ52whrvuVr-YH",
+      "name": "Anonim",
+      "description": "test kirim lagi",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877883963_Ab_Dar7x.jpg",
+      "createdAt": "2022-04-25T09:11:23.965Z",
+      "lat": -2.1468253,
+      "lon": 101.4426098
+    },
+    {
+      "id": "story-1JQgDK3ve0TGP-cG",
+      "name": "dex",
+      "description": "Good",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877857778_v6lCyu4H.jpg",
+      "createdAt": "2022-04-25T09:10:57.779Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-GTQ94oin9w8Gu5O9",
+      "name": "rami malek",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877819059_qpbOgmxL.jpg",
+      "createdAt": "2022-04-25T09:10:19.059Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-T-uKEZYKXKpmuwYg",
+      "name": "rami malek",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877776679_yOiQ6e9X.jpg",
+      "createdAt": "2022-04-25T09:09:36.681Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-37O5gNiWJv3RrJT6",
+      "name": "Paijo siswa bangkit",
+      "description": "slapal",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877688873_op7eju68.jpg",
+      "createdAt": "2022-04-25T09:08:08.875Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-wQylfq9Ncuv39UTQ",
+      "name": "Paijo siswa bangkit",
+      "description": "ssksmsk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877651608_aBMdLoDj.jpg",
+      "createdAt": "2022-04-25T09:07:31.611Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-HnIPH-LU78XrGCra",
+      "name": "review",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877631232_g_8yxLL-.jpg",
+      "createdAt": "2022-04-25T09:07:11.234Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-j479U4zNPWZedu1Z",
+      "name": "Paijo siswa bangkit",
+      "description": "sksskskskskskssksksksksk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877573594_RPwECEzS.jpg",
+      "createdAt": "2022-04-25T09:06:13.595Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-ebdyfJeAgC9hIYka",
+      "name": "Anonim",
+      "description": "test kirim",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877566923_V0ZwS9H9.jpg",
+      "createdAt": "2022-04-25T09:06:06.924Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-9otY3prp8h7tpw3v",
+      "name": "Paijo siswa bangkit",
+      "description": "apapalal",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877549029_S8Bedzhf.jpg",
+      "createdAt": "2022-04-25T09:05:49.030Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story--fjTqgUkIz1S8YKr",
+      "name": "Paijo siswa bangkit",
+      "description": "alal",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877511740_vnYjcCsL.jpg",
+      "createdAt": "2022-04-25T09:05:11.741Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-hrUsP0qhblXWG69X",
+      "name": "Paijo siswa bangkit",
+      "description": "qspzkcl",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877481626_JTMUz1es.jpg",
+      "createdAt": "2022-04-25T09:04:41.628Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-yYCtB5eUhRgnyCQf",
+      "name": "review",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877470203_-o0wrEr5.jpg",
+      "createdAt": "2022-04-25T09:04:30.205Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-1hOoyB47OKjUmzqK",
+      "name": "Paijo siswa bangkit",
+      "description": "slPql,",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877459755_f1Ih2Ggn.jpg",
+      "createdAt": "2022-04-25T09:04:19.756Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-57aPR8r_oZaPzdmU",
+      "name": "Paijo siswa bangkit",
+      "description": "zkzoala",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877440353_5K0aSkyD.jpg",
+      "createdAt": "2022-04-25T09:04:00.359Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-RBZeMMBschIUsTPE",
+      "name": "apaa",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877410851_5I4ggKHL.jpg",
+      "createdAt": "2022-04-25T09:03:30.852Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-Bnd3kC1y9PNyeBpR",
+      "name": "ichsan",
+      "description": "\"test\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877400426_vXs_Qhtr.jpg",
+      "createdAt": "2022-04-25T09:03:20.432Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-rnhDnwOEpfkYmVNl",
+      "name": "gagah23",
+      "description": "jshhhhshs",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877382754_nZEh6OlC.jpg",
+      "createdAt": "2022-04-25T09:03:02.757Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-tHnWaRHAPUNMb6KP",
+      "name": "rami malek",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877348077_juHK0rYv.jpg",
+      "createdAt": "2022-04-25T09:02:28.079Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-rz0z5fpkAN9Sph6a",
+      "name": "aji",
+      "description": "z",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877336659_mJ65XyGq.jpg",
+      "createdAt": "2022-04-25T09:02:16.660Z",
+      "lat": 49.270607,
+      "lon": 36.68383
+    },
+    {
+      "id": "story-IY5JkMgrgRoobLjD",
+      "name": "aji",
+      "description": "uk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877315258_z_8ximvl.jpg",
+      "createdAt": "2022-04-25T09:01:55.260Z",
+      "lat": 49.270603,
+      "lon": 36.683826
+    },
+    {
+      "id": "story-rnAE5CqP8aVAI1T9",
+      "name": "bu",
+      "description": "hitam",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877108103_8bKn_pyX.jpg",
+      "createdAt": "2022-04-25T08:58:28.105Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-5aMEyh08orncF1ss",
+      "name": "Anonim",
+      "description": "hghkgkj",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877104120_kG1j1jXM.jpg",
+      "createdAt": "2022-04-25T08:58:24.121Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-TRoz7U489tMd3pPq",
+      "name": "asep42",
+      "description": "\"masi bersnsa asep\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650877036997_J_lnXjQU.jpg",
+      "createdAt": "2022-04-25T08:57:16.998Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-bnHSLzHxcK_vpu90",
+      "name": "bu",
+      "description": "dart",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876952535_ygBPIHAr.jpg",
+      "createdAt": "2022-04-25T08:55:52.536Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-BE1R6bAUhPwsd1zt",
+      "name": "bu",
+      "description": "kt",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876934233_e9jz8KPG.jpg",
+      "createdAt": "2022-04-25T08:55:34.234Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-jVrw2oJU_7wcWK0Q",
+      "name": "bu",
+      "description": "kotlin",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876912295_6LRfunj8.jpg",
+      "createdAt": "2022-04-25T08:55:12.296Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-3HYfJMGYxLeEdWtz",
+      "name": "pisang",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876860392_ops9phNh.jpg",
+      "createdAt": "2022-04-25T08:54:20.393Z",
+      "lat": 37.421997,
+      "lon": -122.084
+    },
+    {
+      "id": "story-d0wSQEwOAn6jufwy",
+      "name": "pisang",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876853121_ouQQg1JE.jpg",
+      "createdAt": "2022-04-25T08:54:13.122Z",
+      "lat": 37.421997,
+      "lon": -122.084
+    },
+    {
+      "id": "story-lKvqxVkM9RmVmKcz",
+      "name": "hai",
+      "description": "a",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876807126_-4uiKPfF.jpg",
+      "createdAt": "2022-04-25T08:53:27.129Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-0Ww2i3vFkQ1ZvaR-",
+      "name": "jarjitsingh",
+      "description": "Yoman",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876763476_bIOdw2HE.jpg",
+      "createdAt": "2022-04-25T08:52:43.477Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-WAFIhVg-P_xxoGh0",
+      "name": "yULIUS",
+      "description": "\"Test syory\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876753321_UoLOWf5c.jpg",
+      "createdAt": "2022-04-25T08:52:33.326Z",
+      "lat": -6.7369504,
+      "lon": 111.0121866
+    },
+    {
+      "id": "story-b4qxwnUmDyFVYeby",
+      "name": "tep",
+      "description": "\"test terakhirrr\\ndfdsf\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876635775_5YXsm7lb.jpg",
+      "createdAt": "2022-04-25T08:50:35.777Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-OGOqNgX1KjlgtJOj",
+      "name": "ino",
+      "description": "erigo",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876605120_45ePVdGn.jpg",
+      "createdAt": "2022-04-25T08:50:05.122Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-8WTUaz6U7-l7r8pM",
+      "name": "yULIUS",
+      "description": "\"5est\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876554651_5eUAQQEu.jpg",
+      "createdAt": "2022-04-25T08:49:14.654Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-E--7Gi1mdWzMnAfE",
+      "name": "apaa",
+      "description": "\"test di coba\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876431607_BpYOOSYO.jpg",
+      "createdAt": "2022-04-25T08:47:11.609Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-XOrH4f0fn5UdnQI-",
+      "name": "yULIUS",
+      "description": "\"Test\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876415824_1tZtxA9S.jpg",
+      "createdAt": "2022-04-25T08:46:55.825Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-GAXhcSrT18L1m6xk",
+      "name": "artawan",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876332398_lLLRFyMH.jpg",
+      "createdAt": "2022-04-25T08:45:32.400Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-SKzMVJKDuAtV355M",
+      "name": "artawan",
+      "description": "testttt",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650876121787_kNV78nn6.jpg",
+      "createdAt": "2022-04-25T08:42:01.793Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-rnZtnH6FNdnXAZJP",
+      "name": "saya12",
+      "description": "bbjbjb",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650875989395_k7L4_9SG.jpg",
+      "createdAt": "2022-04-25T08:39:49.397Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-eiWkgami1Wb0PaUx",
+      "name": "aji",
+      "description": "kotlin",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650875901401_ZBOozq4b.jpg",
+      "createdAt": "2022-04-25T08:38:21.403Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
